@@ -1,0 +1,10 @@
+.sidebar{
+    margin-top: -50px;
+    margin-left: 5px;
+    transition: 0.8s;
+    transform: translate(-100%);
+}
+
+.showSidebar{
+    transform: translate(0);
+}
